@@ -391,7 +391,7 @@ Sending MUTE
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/ESP32-BLE-Media-Controller.git
+git clone https://github.com/HariharathmajanRK/ESP32_BLE_Media_Controller.git
 ```
 
 Move into the project:
